@@ -1,0 +1,1 @@
+window.location = document.getElementById('screenshot-image').getAttribute("src")
