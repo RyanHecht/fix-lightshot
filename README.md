@@ -4,6 +4,11 @@ In February 2018, lightshot (https://app.prntscr.com/en/index.html) rolled out a
 
 # How to Install
 
+* Head to the [Chrome Web Store and click "add to chrome"](https://chrome.google.com/webstore/detail/fix-lightshot/dahidcllknfnoleplldmphdnmacjglph)
+
+*OR*
+
+
 * Clone this repository with `git clone https://github.com/RyanHecht/fix-lightshot` *OR* [download this as a ZIP](https://github.com/RyanHecht/fix-lightshot/archive/master.zip) and extract it to a folder of your choosing
 
 * In Chrome, navigate to `chrome://extensions`
