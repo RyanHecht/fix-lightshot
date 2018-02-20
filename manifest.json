@@ -1,14 +1,18 @@
 {
   "manifest_version": 2,
   "name": "Fix Lightshot",
-  "version": "0.1",
+  "version": "1.0",
   "content_scripts": [
   {
     "matches": [
       "https://prnt.sc/*",
 	  "http://prnt.sc/*"
     ],
-    "js": ["content.js"]
+    "js": ["content.js"],
+	"icons": { 
+          "128": "icon128.png",
+		  "48": "icon48.png"
+		  }
   }
 ]
 
